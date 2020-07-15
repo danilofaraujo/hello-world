@@ -1,2 +1,5 @@
 # hello-world
-GitHub newbie.
+
+Hey there!
+
+I'm a mechanical engineer trying some adventures in programming. GitHub newbie.
